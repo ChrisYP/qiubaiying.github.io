@@ -14,25 +14,26 @@ tags:
 
 1. 打开     https://ankr.network/
 2. 点击    WHITELIST WITH OPENTOKEN  
-![image](https://images-cdn.shimo.im/AvDEjJe2VTsXolCC/image.png)
+![Pd3Krd.png](https://s1.ax1x.com/2018/07/30/Pd3Krd.png)
 3. 下一步（不允许美国、中国）（虽然官方人员说港澳台可以，但是实测不行）  
-![image](https://images-cdn.shimo.im/cMpl7G2rmOAFkHHT/image.png)
+![Pd3kUx.png](https://s1.ax1x.com/2018/07/30/Pd3kUx.png)
 4. 注册：填写邮箱和密码，后点击sing up  
-![image](https://images-cdn.shimo.im/xWfKJ4YbbyoGVoEE/image.png)
+![Pd3FV1.png](https://s1.ax1x.com/2018/07/30/Pd3FV1.png)
 5. 打开邮箱确认  
-![image](https://images-cdn.shimo.im/WsBWPkgrXE8kJMP2/image.png)
+![Pd3MqA.png](https://s1.ax1x.com/2018/07/30/Pd3MqA.png)
 6. 等待一下，就会出现填写您计划投eth数量的页面。（也可以重新打开，并登陆。）  
-![image](https://images-cdn.shimo.im/HP0lW29vuIAG7Z2T/image.png)
+![Pd3A56.png](https://s1.ax1x.com/2018/07/30/Pd3A56.png)
 7. 链接Telegram和加入Telegram群。按提醒操作。  
-![image](https://images-cdn.shimo.im/RvfuqvrBEXo7ji2h/image.png)   
-其中点击链接电报，会出现一个登陆页面，登陆一下，然后电报会接到一条信息，点击confirm  ![image](https://images-cdn.shimo.im/VzAtlWRydDUBV58G/image.png)  
+![Pd3VPK.png](https://s1.ax1x.com/2018/07/30/Pd3VPK.png)   
+其中点击链接电报，会出现一个登陆页面，登陆一下，然后电报会接到一条信息，点击confirm  
+![Pd3Z8O.png](https://s1.ax1x.com/2018/07/30/Pd3Z8O.png)  
 如果出现没有电报名的提醒，请在电报中设置一下名字。  
-![image](https://images-cdn.shimo.im/0BGQg9qiUbAvLeSs/image.png)
+![Pd3e2D.png](https://s1.ax1x.com/2018/07/30/Pd3e2D.png)
 8. 继续  
-![image](https://images-cdn.shimo.im/ZApXP6Qf2DsNuWlW/image.png)  
+![Pd3mxe.png](https://s1.ax1x.com/2018/07/30/Pd3mxe.png)  
 
 9. 按要求填写相关的信息  
-![image](https://images-cdn.shimo.im/eHAanuLlUqEhq9IO/image.png)  
+![Pd3uKH.png](https://s1.ax1x.com/2018/07/30/Pd3uKH.png)  
 
 10.之后就是写建议，提交即可。
 
