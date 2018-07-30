@@ -12,7 +12,7 @@ tags:
 
 ### Anrk白名单注册流程  
 
-1. 打开     https://ankr.network/
+1. [打开Anrk官网](https://ankr.network/)
 2. 点击    WHITELIST WITH OPENTOKEN  
 ![Pd3Krd.png](https://s1.ax1x.com/2018/07/30/Pd3Krd.png)
 3. 下一步（不允许美国、中国）（虽然官方人员说港澳台可以，但是实测不行）  
